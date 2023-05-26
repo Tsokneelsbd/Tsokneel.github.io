@@ -18,3 +18,10 @@ The goal of the conference was to provide education to create a culture of
 research integrity and prevent research misconduct.
 
 You can view my certification [here](/files/pdf/Research conduct.pdf).
+
+
+## Registered Electrical Engineering Certificate
+
+Certificate issued by the Nepal Engineering Council to show the registration of electrical engineer.
+
+You can view my certification [here](/files/pdf/NEC Certificate.pdf).
