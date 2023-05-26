@@ -12,9 +12,9 @@ You can also find my articles on [googlescholar](https://scholar.google.com/cita
 
 Posters
 ======
-
-1. M. Blonsky, S. Subedi, and B. Mather, “Assessing the technical potentialof fast frequency response in grid-supportive loads,” in 2022 IEEE PowerEnergy Society General Meeting (PESGM)(In Press), 2022.
-1. S. Subedi, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen “Data-driven Model Extraction and Validation of a Grid-tied Single-phase Smart Inverter,” in 2022 IEEE PowerEnergy Society General Meeting (PESGM)(In Press), 2022.
-1. S. Subedi, P. Cicilio, R. Fourney, R. Tonkoski, H. M. Rekabdarkolaee, and T. M. Hansen “Partitioned Dynamic Modeling of Inverter with Grid Support Functions,” in 2021 IEEE PowerEnergy Society General Meeting (PESGM)(In Press), 2021. 
+1. S.Subedi, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen, “Automated Data-Driven Model Extraction and Validation of Grid-Tied Single-Phase Inverters Dynamics with Grid Support Function,” presented at the Graduate Research Scholarship and Creative Activity Day (GRSCAD) Poster Session, April 2023.
+1. M. Blonsky, S. Subedi, and B. Mather, “Assessing the technical potentialof fast frequency response in grid-supportive loads,” in 2022 IEEE PowerEnergy Society General Meeting (PESGM), 2022.
+1. S. Subedi, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen “Data-driven Model Extraction and Validation of a Grid-tied Single-phase Smart Inverter,” in 2022 IEEE PowerEnergy Society General Meeting (PESGM), 2022.
+1. S. Subedi, P. Cicilio, R. Fourney, R. Tonkoski, H. M. Rekabdarkolaee, and T. M. Hansen “Partitioned Dynamic Modeling of Inverter with Grid Support Functions,” in 2021 IEEE PowerEnergy Society General Meeting (PESGM, 2021. 
 
 
