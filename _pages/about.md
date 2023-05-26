@@ -7,12 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a Ph.D. candidate in the Deparment of Electrical Engineering at [South Dakota State University](https://www.sdstate.edu/) working under the supervision of [Dr.Timothy M. Hansen](https://www.sdstate.edu/directory/tim-hansen). I'm working as a graduate research assistanr and I have worked as teaching assistant during my Ph.D. program. Currently I am working as an intern at National Renewable Energy Laboratory.
-
-My research focuses on the analysis, design, and control of power electronic converters, and dynamic modeling and simulation of converter-dominated power systems. I have demonstrated my experience on using various programming language and exposure to the power systems modeling and simulation tools.
-
-
+I am currently a Ph.D. candidate in the Department of Electrical Engineering and Computer Science at [South Dakota State University](https://www.sdstate.edu/) . I work under the guidance of [Dr.Timothy M. Hansen](https://www.sdstate.edu/directory/tim-hansen) and specialize in dynamic modeling and simulation of converter-dominated power systems. My research focuses on the modeling, analysis, and control of power electronic converters, as well as a thorough understanding of power grid design, estimation, and co-simulation in power systems. My primary research interest is studying the impact of high power-electronics based distributed energy resources for voltage and frequency stability, developing the reduce-ordered models and aggregated dynamic modeling. Additionally, I have experience using various programming languages and have been exposed to power systems modeling and simulation tools.
 Education
 ======
 * Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA (Expected Graduation: May, 2023)
@@ -22,14 +17,14 @@ Education
 
 * BE in Electrical Engineering, Tribhuvan University, Nepal (2014 - 2018)
   * Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACT devices, High Voltage Engineering
-  * Thesis Title: Hardware Fabrication of Smart Energy Meter for Demand Side Managemen
+  * Thesis Title: Hardware Fabrication of Smart Energy Meter for Demand Side Management
 
 
 Key Skills
 ======
-* Programming/scripting language: Python, MATLAB, R, C++
-* Library/API: Numpy, Scipy, Pandas, Matplotlib, Seaborn, CasADi, OpenMP, MPI, CUDA
-* Software/Tools: Simulink, OPAL-RT, HELICS, PSS/E, Git, LaTeX, MATPOWER, GridLAB-D, OpenDSS, RT-LAB, PSIM, LTSPICE, PowerWorld
+* Programming/scripting language: Python, MATLAB, R, C, C++
+* Library/API: NNumPy, SciPy, Pandas, Matplotlib, Seaborn, PyTorch, TensorFlow, CasADi, OpenMP, MPI, CUDA
+* Software/Tools: Simulink, OPAL-RT, HELICS, PSS/E, Git/GitHub, LaTeX, MATPOWER, GridLAB-D, OpenDSS, PSCAD, RT-LAB, PSIM, LTSPICE, PowerWorld, Power BI, AutoCAD
 
 
 
