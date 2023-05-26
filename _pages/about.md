@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a Ph.D. candidate in the Department of Electrical Engineering and Computer Science at [South Dakota State University](https://www.sdstate.edu/) . I work under the guidance of [Dr.Timothy M. Hansen](https://www.sdstate.edu/directory/tim-hansen) and specialize in dynamic modeling and simulation of converter-dominated power systems. My research focuses on the modeling, analysis, and control of power electronic converters, as well as a thorough understanding of power grid design, estimation, and co-simulation in power systems. My primary research interest is studying the impact of high power-electronics based distributed energy resources for voltage and frequency stability, developing the reduce-ordered models and aggregated dynamic modeling. Additionally, I have experience using various programming languages and have been exposed to power systems modeling and simulation tools.
+
 Education
 ======
 * Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA (Expected Graduation: May, 2023)
