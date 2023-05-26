@@ -7,7 +7,8 @@ author_profile: true
 
 
 * Graduate III-Electrical Engineer Intern, NREL, CO, USA (May 2022- present)
-    * Developed a 100% renewable penetration case in a PSS/E model of the reduced 240-bus WECC test system
+    * Work on to analysze 100% renewable penetration case in reduced 240-bus WECC test system using PSSE
+    * Analyzed the voltage and frequency dynamics and N-1 contengency
     * Benefit and cost analysis of the installation of grid-supportive loads for fast frequency response 
     * Assessed the technical potential of fast frequency response in grid-supportive end-use electronics
 
@@ -17,6 +18,7 @@ author_profile: true
   * Formulated a system identification algorithm using the least square method in both Python and MATLAB to model the dynamics of a power electronic converter with advanced grid support functionality
   * Reviewed methods to accelerate electromagnetic transient simulation of power systems 
   * Compared the impact of different PLLs on data-driven modeling of grid-connected single-phase inverters 
+  * Developed and analyzed reduced-ordered model aggregation approach with high DERs and loads and compared with composite load model with DER_A
 
 * Microgrid Laboratory, SDSU, USA (Aug. 2019 -present)
   * Applied data-driven modeling of grid-connected SMA inverters using a Puissance Plus power amplifier unit and Opal-RT real-time simulator system 
