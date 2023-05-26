@@ -24,4 +24,4 @@ You can view my certification [here](/files/pdf/Research conduct.pdf).
 
 Certificate issued by the Nepal Engineering Council to show the registration of electrical engineer.
 
-You can view my certification [here](/files/pdf/NEC Certificate.pdf).
+You can view my certification [here](/files/pdf/BE_EE_Registration_Certificate.pdf).
