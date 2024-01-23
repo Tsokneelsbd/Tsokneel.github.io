@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Sunil Subedi"
 title_separator          : "-"
 name                     : &name "Sunil Subedi"
-description              : &description "Ph.D. Candiate in Electrical Engineering"
+description              : &description "Ph.D. in Electrical Engineering"
 url                      : https://Tsokneelsbd.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g., "/blog"
 repository               : "Tsokneelsbd/Tsokneelsbd.github.io"
 # teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sunil Subedi"
   avatar           : "profile.jfif"
-  bio              : "Ph.D. Candidate in Electrical Engineering at South Dakota State University."
-  location         : "Brookings, South Dakota"
-  employer         : "South Dakota State University"
+  bio              : "Ph.D. in Electrical Engineering from South Dakota State University."
+  location         : "Knoxville, Tennessee"
+  employer         : "Oak Ridge National Laboratory is managed by UT-Battelle LLC for the US Department of Energy"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao"
   email            : "sunil.subedi8826@gmail.com"
