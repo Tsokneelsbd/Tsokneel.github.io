@@ -13,7 +13,7 @@ author_profile: true
 * Reviewer, IEEE Systems Journal (June 2021 - current)
 * Reviewer, IEEE Transactions on Sustainable Energy (Feb. 2021 - current)
 * Reviewer, Sustainable Computing: Informatics and Systems (SUSCOM) (Feb. 2021 - current)
-* Reviewer, IEEE Power and Energy Technology Systems Journal
-* Reviewer, Nature Communications
-* Reviewer, IEEE Transactions on Energy Conversion
-* Reviewer, IEEE Transactions on Smart Grid 
+* Reviewer, IEEE Power and Energy Technology Systems Journal (2023 - current)
+* Reviewer, Nature Communications (2023 - current)
+* Reviewer, IEEE Transactions on Energy Conversion (2023 - current)
+* Reviewer, IEEE Transactions on Smart Grid (2023 - current)
