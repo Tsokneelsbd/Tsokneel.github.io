@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate in the Department of Electrical Engineering and Computer Science at [South Dakota State University](https://www.sdstate.edu/) . I work under the guidance of [Dr.Timothy M. Hansen](https://www.sdstate.edu/directory/tim-hansen) and specialize in dynamic modeling and simulation of converter-dominated power systems. My research focuses on the modeling, analysis, and control of power electronic converters, as well as a thorough understanding of power grid design, estimation, and co-simulation in power systems. My primary research interest is studying the impact of high power-electronics based distributed energy resources for voltage and frequency stability, developing the reduce-ordered models and aggregated dynamic modeling. Additionally, I have experience using various programming languages and have been exposed to power systems modeling and simulation tools.
+Sunil Subedi received his bachelor’s degrees in electrical engineering from [Institute of Engineering, Tribhuvan University](https://tu.edu.np/pages/institute-of-engineering-4), Kathmandu, Nepal in 2018, and the Ph.D. degree in electrical engineering from [South Dakota State University](https://www.sdstate.edu/), Brookings, SD, USA, in 2023. He is currently working as a Postdoctoral Research Associate at [Oak Ridge National Laboratory](https://www.ornl.gov/). His research interests include grid integration of renewable energy systems, power system dynamic modeling and stability, data-driven dynamic modeling, and power electronics. 
 
 Education
 ======
-* Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA (Expected Graduation: May, 2023)
+* Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA
   * Advisor: Dr. Timothy M. Hansen, Associate Professor, SDSU
-  * Dissertation Topic: Computationally efficient statistical modeling of inverter with grid support functions to access the dynamic response of converter dominated power system
+  * Dissertation Topic: Automatic Data-Driven Partitioned Modeling of Power System Dynamics with Smart Power Electronic Inverters
   * Relevant Coursework: Advanced Power Electronics, Advanced Power Systems, High-Performance Computing, Applied Bayesian Statistics, Statistical Methods II, Modern Applied Statistics II
 
 * BE in Electrical Engineering, Tribhuvan University, Nepal (2014 - 2018)
