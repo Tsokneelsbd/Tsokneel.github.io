@@ -18,16 +18,16 @@ Posters
 1. S. Subedi, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen “Data-driven Model Extraction and Validation of a Grid-tied Single-phase Smart Inverter,” in 2022 IEEE PowerEnergy Society General Meeting (PESGM), 2022.
 1. S. Subedi, P. Cicilio, R. Fourney, R. Tonkoski, H. M. Rekabdarkolaee, and T. M. Hansen “Partitioned Dynamic Modeling of Inverter with Grid Support Functions,” in 2021 IEEE PowerEnergy Society General Meeting (PESGM, 2021.
 
-Invited Talks
+Invited Talks and Seminars
 ======
 
 1. S.Subedi, “Automated Data-Driven Partitioned Modeling of Power System Dynamics
-with Smart Power Electronic Inverters,” Sandia National Laboratories, invited seminar,
-Albuquerque, NM, July 2023.
+with Smart Power Electronic Inverters,” Sandia National Laboratories,
+Albuquerque, NM, July 2023 (invited seminar).
 1. S.Subedi, “Dynamic Modeling and Simulation of Converter Dominated Power
-Systems,” Oak Ridge National Laboratory, invited seminar, Oak Ridge, TN, March 2023.
+Systems,” Oak Ridge National Laboratory, invited seminar, Oak Ridge, TN, March 2023 (invited seminar).
 1. S.Subedi, “Dynamic Modeling and Simulation of Converter Dominated Power
-Systems,” National Renewable Energy Laboratory, invited seminar, Golden, CO, March 2022.
+Systems,” National Renewable Energy Laboratory, invited seminar, Golden, CO, March 2022 (invited seminar).
 
 
 
