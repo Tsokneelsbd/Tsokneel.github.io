@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 * Postdoctoral Research Associate, Oak Ridge National Laboratory (ORNL), Knoxville, TN, USA (Aug. 2023 - present)
+    * Projects:
+       * Dynamic Security Enhancement Platform of Converter Interfaced Resource Rich Power Grids Using a Power Grid and Protection Co-Model    
+       * Integrated Multi-Fidelity Model and Co-Simulation Platform for Distribution System Transient and Dynamic Analysis-DistribuDyn
 
 * Graduate III-Electrical Engineer Intern, NREL, CO, USA (May 2022- Dec. 2023)
     * Work on analyzing 100% renewable penetration case in a reduced 240-bus WECC test system using PSSE
