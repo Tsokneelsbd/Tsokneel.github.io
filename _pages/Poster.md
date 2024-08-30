@@ -22,7 +22,7 @@ Posters
 
 Invited Talks and Seminars
 ======
-
+1. Yaosuo Xue and Sunil Subedi, “Data-Driven Inverter-Based Resource Black-Box Modeling,” IEEE Power and Energy Society General Meeting, Special Issue Panelist, Seattle, WA, July 2024.
 1. S.Subedi, “Automated Data-Driven Partitioned Modeling of Power System Dynamics
 with Smart Power Electronic Inverters,” Sandia National Laboratories,
 Albuquerque, NM, July 2023 (invited seminar).
