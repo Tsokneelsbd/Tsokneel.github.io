@@ -28,6 +28,11 @@ Engineering, Electronics and Energy, vol. 6, p. 100365, 2023.
 Conferences
 ======
 
+1. S. Subedi, Y. Gui, and Y. Xue, “Grid Parameters and Voltage Estimation Approach Integrating Data-Driven Converter Model,” in IECON–50th Annu. Conf. IEEE Ind. Electron. Soc., (Accepted, to apprear Nov. 2024).
+1. Y. Gui, S. Subedi, and Y. Xue, “Passivity-Based Grid Forming Control for DERs,” in IEEE Energy Convers. Congr. Expo. 2024, (Accepted, to apprear Oct. 2024).
+1. S. Subedi, Y. Gui, and Y. Xue, “Deep Learning-Based Dynamic Modeling of Three-Phase Voltage Source Inverters,” in IEEE Energy Convers. Congr. Expo. 2024, (Accepted, to apprear Oct. 2024).
+1. S. Subedi, Y. Gui, and Y. Xue, “Hybrid Modeling of Three-Phase Grid-Supporting Inverters for Dynamic Studies,” in IEEE Power and Energy Society General Meeting 2024, (Accepted, to be apprear July 2024).
+1. S. Mukherjee, S. Chintavali, N. Bhusal, V. Tansakul, S. Subedi, and A. Bhattacharya, “The Challenges of Modeling Distributed Energy Resources (DERs) as Black Start Resources.,” in IEEE Rural Electric Power Conference, Tulsa, OK, USA, July 2024 [10.1109/REPC57617.2024.00021](10.1109/REPC57617.2024.00021).
 1. S. Subedi, M. Blonsky, Y. Son, and B. Mather, “Cost-benefit Analysis of Grid-Supportive Loads for Fast Frequency Response,” in IEEE PES Grid Edge Technologies Conference and Exposition 2023, San Diego, CA, 5 pages, July 2022. [10.1109/GridEdge54130.2023.10102707](10.1109/GridEdge54130.2023.10102707)
 1. S. Subedi, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, T. M. Hansen, J. D. Vasquez-Plaza, and F.Andrade, “Impact of PLL design on data-driven models for grid-connected single-phase inverters,” in 2022 International Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM), 2022, pp. 930–935. DOI.[10.1109/SPEEDAM53979.2022.9841972](10.1109/SPEEDAM53979.2022.9841972)
 1. N. Guruwacharya, H. Bhandari, S. Subedi, J. D. Vasquez-Plaza, M. L.Stoel, U. Tamrakar, F. Wilches-Bernal, F. Andrade, T. M. Hansen, and R. Tonkoski, “Data-driven modeling of commercial photovoltaic inverter dynamics using power hardware-in-the-loop,” in 2022 International Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM), 2022, pp. 924–929. DOI.[10.1109/SPEEDAM53979.2022.9842001](10.1109/SPEEDAM53979.2022.9842001)
