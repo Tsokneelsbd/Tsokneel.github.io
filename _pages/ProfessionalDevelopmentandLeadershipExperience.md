@@ -20,6 +20,7 @@ Volunteering
 ======
 
 * Event Assistant, GridFWD 2022, Empower Field, Denver, CO (October 24-26)
+* Topic chair in the technical program committee at IEEE Energy Conversion Congress & Expo (ECCE) 2024, Phoenix, AZ, USA.
  
 
 Story/News and Covers
