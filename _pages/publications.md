@@ -18,7 +18,7 @@ Technical Report
 Open Sourced Data
 ======
 
-1. Sunil Subedi, Nischal Guruwacharya, Bidur Poudel, Robert Fourney, Hossein Moradi Rekabdarkolaee, Reinaldo Tonkoski, and Timothy Hansen, “Black-box dynamic modeling of smart inverters : Dataset and models,” arXiv, Feb. 2023. DOI.
+1. Sunil Subedi, Nischal Guruwacharya, Bidur Poudel, Robert Fourney, Hossein Moradi Rekabdarkolaee, Reinaldo Tonkoski, and Timothy Hansen, “Black-box dynamic modeling of smart inverters : Dataset and models,” Mendeley, Feb. 2023. [10.17632/82k8x5tpkn.3](10.17632/82k8x5tpkn.3).
 
 
 Journals
