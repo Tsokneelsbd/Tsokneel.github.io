@@ -32,9 +32,7 @@ Key Skills
 
 For more info
 ======
-Checkout othere tabs from the top of the page. 
-
-Any suggestion or feedback, feel free to contact me. This site is still in progress so not all infromation is in place.
+Checkout othere tabs from the top of the page. You can also download my updated CV in CV section at the end.
 
 
 
