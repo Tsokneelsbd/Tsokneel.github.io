@@ -22,8 +22,7 @@ Journals
 1. S. Subedi, B. Poudel, P. Aslami, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen, “Automated Data-Driven Model Extraction and Validation of Inverter Dynamics with Grid Support Functions,” e-Prime-Advances in Electrical
 Engineering, Electronics and Energy, vol. 6, p. 100365, 2023.
 1. S. Subedi, N. Guruwacharya, B. Poudel, J. D. Vasquez-Plaza, F. Andrade, R. Fourney, H. M. Rekabdarkolaee, T. M. Hansen, and R. Tonkoski, “Leveraging data-driven models for accurate analysis of grid-tied smart inverters dynamics,” arXiv, 2023
-1. S. Subedi, J. D. Vasquez, F. Andrade, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen, “Aggregated Dynamic Partition Modeling for Active Distribution Network for Stability Studies”(Under Prep).
-1. B. Poudel, N. Guruwacharya, S. Subedi, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen, “Effect of Varying Irradiance in Data-Driven Modeling of Photovoltaic Inverter Dynamics,” (Under Preparation)
+1. S. Subedi, J. D. Vasquez, F. Andrade, R. Fourney, H. M. Rekabdarkolaee, R. Tonkoski, and T. M. Hansen, “Aggregated Dynamic Partition Modeling for Active Distribution Network for Stability Studies,” IET Renewable Power Generation, (Pre-print), July 2024.
 
    
 Conferences
