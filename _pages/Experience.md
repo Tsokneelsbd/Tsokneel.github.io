@@ -10,8 +10,8 @@ author_profile: true
        * Developed detailed physics-based, data-driven, and hybrid models for converters (IBRs and DERs)
        * Developed an optimization-based observer to enhance fault detection and isolation capabilities in converter-rich power systems
     * Project 2: Integrated Multi-Fidelity Model and Co-Simulation Platform for Distribution System Transient and Dynamic Analysis-DistribuDy
-         ∗ Developed deep learning-based dynamic models for three-phase inverter-based resources (IBRs)
-      ∗ Integrated black-box models of power electronic IBRs and motor-driven load into the open-source power simulation tool, GridLAB-D, for dynamic studies
+       * Developed deep learning-based dynamic models for three-phase inverter-based resources (IBRs)
+       * Integrated black-box models of power electronic IBRs and motor-driven load into the open-source power simulation tool, GridLAB-D, for dynamic studies
       
 * Graduate III-Electrical Engineer Intern, NREL, CO, USA (May 2022- Dec. 2023)
     * Work on analyzing 100% renewable penetration case in a reduced 240-bus WECC test system using PSSE
