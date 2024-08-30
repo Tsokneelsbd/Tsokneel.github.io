@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Sunil Subedi (GSM’19--M’23, IEEE) earned his B.Eng. degree in electrical engineering from the [Institute of Engineering, Tribhuvan University](https://tu.edu.np/pages/institute-of-engineering-4), Kathmandu, Nepal in 2018, and the Ph.D. degree in electrical engineering from [South Dakota State University](https://www.sdstate.edu/), Brookings, SD, USA, in 2023. 
-He was a graduate III electrical engineering intern with the [National Renewable Energy Laboratory](https://www.nrel.gov/), Golden, CO, USA from May 2022 to Dec. 2022, where he worked on projects related to the grid integration of grid-supportive loads and distributed energy resources. He is currently working as a Postdoctoral Research Associate at [Oak Ridge National Laboratory](https://www.ornl.gov/), Oak Ridge, TN, USA. His research interests include grid integration of renewable energy systems, power system dynamic modeling, simulation, stability, and the utilization of machine learning techniques in power systems and power electronic converters.
+He was a graduate III electrical engineering intern with the [National Renewable Energy Laboratory](https://www.nrel.gov/), Golden, CO, USA from May 2022 to Dec. 2022, where he worked on projects related to the grid integration of grid-supportive loads and distributed energy resources. He is currently working as a Postdoctoral Research Associate at [Oak Ridge National Laboratory](https://www.ornl.gov/), Oak Ridge, TN, USA. His research interests include grid integration of renewable energy systems, power system dynamic modeling, simulation studies, stability analysis, and the utilization of machine learning techniques in power systems and power electronic converters.
 
 Education
 ======
