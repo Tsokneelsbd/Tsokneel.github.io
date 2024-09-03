@@ -32,7 +32,7 @@ Journals
    
 Conferences
 ======
-
+1. A. Selim, S. Vahedi, S. Subedi, and J. Zhao, “Urban-Scale Control of School Bus Fleet Charging and Discharging Strategies Using Single and Multi-Stage Optimization,” in IECON–50th Annu. Conf. IEEE Ind. Electron. Soc., (Accepted, to apprear Nov. 2024).
 1. S. Subedi, Y. Gui, and Y. Xue, “Grid Parameters and Voltage Estimation Approach Integrating Data-Driven Converter Model,” in IECON–50th Annu. Conf. IEEE Ind. Electron. Soc., (Accepted, to apprear Nov. 2024).
 1. Y. Gui, S. Subedi, and Y. Xue, “Passivity-Based Grid Forming Control for DERs,” in IEEE Energy Convers. Congr. Expo. 2024, (Accepted, to apprear Oct. 2024).
 1. S. Subedi, Y. Gui, and Y. Xue, “Deep Learning-Based Dynamic Modeling of Three-Phase Voltage Source Inverters,” in IEEE Energy Convers. Congr. Expo. 2024, (Accepted, to apprear Oct. 2024).
